@@ -8,9 +8,9 @@ An analysis of mock-data for Pymaceuticals, Inc., a pharmaceutical company that 
 ________________________________________________________________
 A written report at the top of the Jupyter notebook file summarizes the main findings:
 
-# Analysis
+# # Analysis
 
-Within the Capomulin treatment, mouse weight and average tumor volume appear to have a strong positive correlation of 0.84.
+"Within the Capomulin treatment, mouse weight and average tumor volume appear to have a strong positive correlation of 0.84.
 
 Capomulin and Ramicane were studied for a longer duration of time compared to the 8 other treatments, (Ketapril, Naftisol, Zoniferol, Placebo, Stelasyn, Infubinol, Ceftamin, and Propriva.)
 
@@ -18,4 +18,4 @@ Capomulin and Ramicane appear to have the lowest median tumor values over the co
 
 Capomulin outperforms Ramicane with increased consistency of results. Capomulin's IQR is tighter than Ramicane by 1.3mm3 despite having a median larger than Ramicane.
 
-Across the boxplots, we continue to see that Capomulin and Ramicane boast low final-tumor volumes compared to Infubinol and Ceftamin. While the span of Ramicane's measurements fall lower than Capomulin's, Capomulin showcases more of a normal distribution with a narrower IQR - more consistency. The IQR of Ramicane is broader and is skewed left, so the bulk of the recordings encompass higher volumes.
+Across the boxplots, we continue to see that Capomulin and Ramicane boast low final-tumor volumes compared to Infubinol and Ceftamin. While the span of Ramicane's measurements fall lower than Capomulin's, Capomulin showcases more of a normal distribution with a narrower IQR - more consistency. The IQR of Ramicane is broader and is skewed left, so the bulk of the recordings encompass higher volumes."
