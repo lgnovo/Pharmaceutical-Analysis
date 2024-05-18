@@ -8,7 +8,7 @@ An analysis of mock-data for Pymaceuticals, Inc., a pharmaceutical company that 
 ________________________________________________________________
 A written report at the top of the Jupyter notebook file summarizes the main findings:
 
-# # Analysis
+## Analysis
 
 "Within the Capomulin treatment, mouse weight and average tumor volume appear to have a strong positive correlation of 0.84.
 
